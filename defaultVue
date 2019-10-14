@@ -1,0 +1,32 @@
+\cp --parents $1/src/assets/css/style.css src/assets/css/style.css 
+\cp --parents src/assets/css/font_bpg_arial.css $1
+\cp --parents src/assets/css/geowebfonts.css $1
+\cp --parents -r src/assets/fonts/ $1
+\cp --parents src/components/background.vue $1
+\cp --parents src/components/globalstate.js $1
+\cp --parents src/components/mixinErrors.js $1
+\cp --parents src/components/mixinErrors.js $1
+\cp --parents src/components/mixinMenu.js $1
+\cp --parents src/components/modalMessage.vue $1
+\cp --parents src/components/navbar.vue $1
+\cp --parents src/components/testData.js $1
+\cp --parents src/views/v-404.vue $1
+\cp --parents src/views/v-restricted.vue $1
+\cp --parents src/main.js $1
+\cp --parents src/App.vue $1
+\cp --parents src/router.js $1
+\cp --parents .env.development $1
+\cp --parents .env.production $1
+\cp --parents vue.config.js $1
+
+
+
+
+
+
+
+
+
+
+
+

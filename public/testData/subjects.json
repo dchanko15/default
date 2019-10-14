@@ -1,0 +1,108 @@
+{
+  "Subjects": [
+    {
+      "SubjectId" : 1,
+      "SubjectName" : "ქართული ენა და ლიტ.",
+      "SubjectGroupId" : 1
+    },
+    {
+      "SubjectId" : 2,
+      "SubjectName" : "ზოგადი უნარები (ქართ)",
+      "SubjectGroupId" : 2
+    },
+    {
+      "SubjectId" : 3,
+      "SubjectName" : "ზოგადი უნარები (რუს)",
+      "SubjectGroupId" : 2
+    },
+    {
+      "SubjectId" : 4,
+      "SubjectName" : "ზოგადი უნარები (სომხ)",
+      "SubjectGroupId" : 2
+    },
+    {
+      "SubjectId" : 5,
+      "SubjectName" : "ზოგადი უნარები (აზერ)",
+      "SubjectGroupId" : 2
+    },
+    {
+      "SubjectId" : 6,
+      "SubjectName" : "ინგლისური ენა",
+      "SubjectGroupId" : 3
+    },
+    {
+      "SubjectId" : 7,
+      "SubjectName" : "რუსული ენა",
+      "SubjectGroupId" : 3
+    },
+    {
+      "SubjectId" : 8,
+      "SubjectName" : "გერმანული ენა",
+      "SubjectGroupId" : 3
+    },
+    {
+      "SubjectId" : 9,
+      "SubjectName" : "ფრანგული ენა",
+      "SubjectGroupId" : 3
+    },
+    {
+      "SubjectId" : 10,
+      "SubjectName" : "მათემატიკა (ქართ)",
+      "SubjectGroupId" : 4
+    },
+    {
+      "SubjectId" : 12,
+      "SubjectName" : "ისტორია (ქართ)",
+      "SubjectGroupId" : 5
+    },
+    {
+      "SubjectId" : 14,
+      "SubjectName" : "გეოგრაფია (ქართ)",
+      "SubjectGroupId" : 6
+    },
+    {
+      "SubjectId" : 16,
+      "SubjectName" : "ბიოლოგია (ქართ)",
+      "SubjectGroupId" : 10
+    },
+    {
+      "SubjectId" : 18,
+      "SubjectName" : "ქიმია (ქართ)",
+      "SubjectGroupId" : 9
+    },
+    {
+      "SubjectId" : 20,
+      "SubjectName" : "ფიზიკა (ქართ)",
+      "SubjectGroupId" : 8
+    },
+    {
+      "SubjectId" : 22,
+      "SubjectName" : "ლიტერატურა",
+      "SubjectGroupId" : 7
+    },
+    {
+      "SubjectId" : 23,
+      "SubjectName" : "შემოქმედებითი ტური",
+      "SubjectGroupId" : 11
+    },
+    {
+      "SubjectId" : 24,
+      "SubjectName" : "ხელოვნება(ქართ)",
+      "SubjectGroupId" : 12
+    },
+    {
+      "SubjectId" : 26,
+      "SubjectName" : "სამოქალაქო განათლება (ქართ)",
+      "SubjectGroupId" : 14
+    },
+    {
+      "SubjectId" : 31,
+      "SubjectName" : "აფხაზური ენა",
+      "SubjectGroupId" : 30
+    },
+    {
+      "SubjectId" : 32,
+      "SubjectName" : "ოსური ენა",
+      "SubjectGroupId" : 31
+    }
+  ]}

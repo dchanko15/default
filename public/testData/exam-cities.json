@@ -1,0 +1,48 @@
+{
+  "ExamCities": [
+    {
+      "ExamCityID" : 1,
+      "ExamCityName" : "ქ. თბილისი"
+    },
+    {
+      "ExamCityID" : 58,
+      "ExamCityName" : "ქ. ბათუმი"
+    },
+    {
+      "ExamCityID" : 400,
+      "ExamCityName" : "ქ. ოზურგეთი"
+    },
+    {
+      "ExamCityID" : 593,
+      "ExamCityName" : "ქ. ზუგდიდი"
+    },
+    {
+      "ExamCityID" : 834,
+      "ExamCityName" : "ქ. ფოთი"
+    },
+    {
+      "ExamCityID" : 1346,
+      "ExamCityName" : "ქ. ქუთაისი"
+    },
+    {
+      "ExamCityID" : 1904,
+      "ExamCityName" : "ქ. ახალციხე"
+    },
+    {
+      "ExamCityID" : 2174,
+      "ExamCityName" : "ქ. გორი"
+    },
+    {
+      "ExamCityID" : 2937,
+      "ExamCityName" : "ქ. რუსთავი"
+    },
+    {
+      "ExamCityID" : 3478,
+      "ExamCityName" : "ქ. თელავი"
+    },
+    {
+      "ExamCityID" : 11191,
+      "ExamCityName" : "ქ. ხულო"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+"EntrantPrograms": [
+	{
+		"EntrantProgramId" : 7127,
+		"EntrantId" : 74,
+		"ProgCode" : "1950101",
+		"Priority" : 1
+	},
+	{
+		"EntrantProgramId" : 7128,
+		"EntrantId" : 74,
+		"ProgCode" : "1950102",
+		"Priority" : 2
+	},
+	{
+		"EntrantProgramId" : 7129,
+		"EntrantId" : 74,
+		"ProgCode" : "1220602",
+		"Priority" : 3
+	},
+	{
+		"EntrantProgramId" : 7130,
+		"EntrantId" : 74,
+		"ProgCode" : "0010128",
+		"Priority" : 4
+	},
+	{
+		"EntrantProgramId" : 7131,
+		"EntrantId" : 74,
+		"ProgCode" : "0100201",
+		"Priority" : 5
+	},
+	{
+		"EntrantProgramId" : 7132,
+		"EntrantId" : 74,
+		"ProgCode" : "0200107",
+		"Priority" : 6
+	},
+	{
+		"EntrantProgramId" : 7133,
+		"EntrantId" : 74,
+		"ProgCode" : "0330102",
+		"Priority" : 7
+	},
+	{
+		"EntrantProgramId" : 7134,
+		"EntrantId" : 74,
+		"ProgCode" : "0640103",
+		"Priority" : 8
+	},
+	{
+		"EntrantProgramId" : 7135,
+		"EntrantId" : 74,
+		"ProgCode" : "0850101",
+		"Priority" : 9
+	},
+	{
+		"EntrantProgramId" : 7136,
+		"EntrantId" : 74,
+		"ProgCode" : "0880105",
+		"Priority" : 10
+	},
+	{
+		"EntrantProgramId" : 7137,
+		"EntrantId" : 74,
+		"ProgCode" : "1210102",
+		"Priority" : 11
+	},
+	{
+		"EntrantProgramId" : 7138,
+		"EntrantId" : 74,
+		"ProgCode" : "1430102",
+		"Priority" : 12
+	},
+	{
+		"EntrantProgramId" : 7139,
+		"EntrantId" : 74,
+		"ProgCode" : "1780101",
+		"Priority" : 13
+	},
+	{
+		"EntrantProgramId" : 7140,
+		"EntrantId" : 74,
+		"ProgCode" : "1520101",
+		"Priority" : 14
+	}
+]}

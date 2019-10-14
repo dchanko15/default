@@ -1,0 +1,51 @@
+{
+  "scheduleStages": {
+    "before": 0,
+    "reg": 1,
+    "card": 2,
+    "distribution": 3,
+    "exam": 4,
+    "marking": 5,
+    "res": 6,
+    "after": 7
+  },
+  "scheduleTable": [
+    {
+      "startDate": "2018-01-01 00:00",
+      "endDate": "3000-02-08 10:00",
+      "scheduleStage": 1
+    }
+  ],
+  "navMenu": [
+    {
+      "role": -1,
+      "scheduleStage": 0,
+      "options": {
+        "readonly": 0
+      },
+      "menuItems": [
+        [
+          "/login",
+          "ავტორიზაცია",
+          "svg",
+          "icon-log-in"
+        ]
+      ]
+    },
+    {
+      "role": 1,
+      "scheduleStage": 1,
+      "options": {
+        "readonly": 0
+      },
+      "menuItems": [
+        [
+          "/profile",
+          "პროფილი",
+          "svg",
+          "icon-user"
+        ]
+      ]
+    }
+  ]
+}
